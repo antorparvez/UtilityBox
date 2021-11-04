@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="time_based_content_now">এই মাত্র</string>
+    <string name="time_based_content_min">১ মিনিট আগে</string>
+    <string name="time_based_content_mins">%1$s মিনিট আগে</string>
+    <string name="time_based_content_hour">1 ঘণ্টা আগে</string>
+    <string name="time_based_content_hours">%1$s ঘণ্টা আগে</string>
+    <string name="time_based_content_day">1 দিন আগে</string>
+    <string name="time_based_content_days">%1$s দিন আগে</string>
+    <string name="ok">ঠিক আছে</string>
+
+    <string name="error_invalid_phone_number"><xliff:g id="phone">%1$s</xliff:g> বৈধ ফোন নাম্বার নয়</string>
+</resources>

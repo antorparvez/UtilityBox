@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="time_based_content_now">just now</string>
+    <string name="time_based_content_min">1 minute ago</string>
+    <string name="time_based_content_mins">%1$s minutes ago</string>
+    <string name="time_based_content_hour">1 hour ago</string>
+    <string name="time_based_content_hours">%1$s hours ago</string>
+    <string name="time_based_content_day">1 day ago</string>
+    <string name="time_based_content_days">%1$s days ago</string>
+    <string name="ok">Ok</string>
+
+    <string name="item_quantity" translatable="false">%1$d</string>
+    <string name="item_quantity_string" translatable="false">%1$s</string>
+
+    <string name="error_invalid_phone_number"><xliff:g id="phone">%1$s</xliff:g> বৈধ ফোন নাম্বার নয়</string>
+
+
+    <string name="not_responding" translatable="false">Not responding!!!</string>
+    <string name="request_not_found" translatable="false">Request not found!!!</string>
+
+    <!--error all -->
+    <string name="error_something_went_wrong" translatable="false">Something went wrong</string>
+
+    <string name="blank" translatable="false"> </string>
+
+    <string name="already_onboarded">You are already registered</string>
+    <string name="invalid_otp_message">আপনার দেয়া OTP ভুল, পুনরায় চেষ্টা করুন</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="no_internet_connection">Connectivity error!!!</string>
+    <string name="too_many_request">Too many requests!!!</string>
+    <string name="unsuccessful_results">Unsuccessful results!!!</string>
+    <string name="not_responding">Not responding!!!</string>
+    <string name="request_time_out">Request time out!!!</string>
+    <string name="no_results_found_for_your_request">No results found for your request.</string>
+    <string name="please_try_again_later">Please, try again later.</string>
+    <string name="check_internet_connection">Check your internet connection, please</string>
+    <string name="no_product_found">404 Not found</string>
+    <string name="unavailable_error">Unavailable!!!</string>
+</resources>
