@@ -1,4 +1,5 @@
-# UtilityBox Library
+# UtilityBox Library [![](https://jitpack.io/v/antorparvez/UtilityBox.svg)](https://jitpack.io/#antorparvez/UtilityBox)
+
 
 To get a Git project into your build:
 
@@ -12,8 +13,9 @@ To get a Git project into your build:
 	}
 ```
 
->Step 2. Add the dependency
+>Step 2. Add the dependency 
 
 	dependencies {
 	        implementation 'com.github.antorparvez:UtilityBox:1.0.1'
 	}
+
